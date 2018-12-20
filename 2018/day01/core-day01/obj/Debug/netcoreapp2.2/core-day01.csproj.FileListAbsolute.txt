@@ -1,0 +1,11 @@
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/bin/Debug/netcoreapp2.2/core-day01.deps.json
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/bin/Debug/netcoreapp2.2/core-day01.runtimeconfig.json
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/bin/Debug/netcoreapp2.2/core-day01.runtimeconfig.dev.json
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/bin/Debug/netcoreapp2.2/core-day01.dll
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/bin/Debug/netcoreapp2.2/core-day01.pdb
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/obj/Debug/netcoreapp2.2/core-day01.csprojAssemblyReference.cache
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/obj/Debug/netcoreapp2.2/core-day01.csproj.CoreCompileInputs.cache
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/obj/Debug/netcoreapp2.2/core-day01.AssemblyInfoInputs.cache
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/obj/Debug/netcoreapp2.2/core-day01.AssemblyInfo.cs
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/obj/Debug/netcoreapp2.2/core-day01.dll
+/home/elmaoguerra/Proyects/adventofcode/day01/core-day01/obj/Debug/netcoreapp2.2/core-day01.pdb
